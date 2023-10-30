@@ -1,1 +1,43 @@
 Code from GoogleCoLab
+
+**BERT Topic Modelling**
+
+SMALL ISLAND DEVELOPING STATES (SIDS): PLASTICS PROJECT
+BERTopic is a topic modelling technique that leverages transformers to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions.
+
+**simpleT5 PubMed Abstracts**
+
+Using models to write Medical publications abstracts.
+
+Compare generated with original 
+
+
+**Long T5 Write Section Summaries from PubMed**
+
+Using models to create summaries
+
+Compare generated with original 
+
+
+**Finetuning and Evaluating a BERT model for Classification**
+
+EU-JAV project
+BERT Model selected from Huggingface library, fine-tuned on labelled data then used for predictions.
+Model evaluated using confusion matrices
+
+
+**Vaccine Stance EU-JAV project**
+
+Various models used from GPT. Google Flan T5, BLOOMZ, Facebook opt_iml
+
+Prompts to generate responses from the models regards labelled vaccine data under study
+
+
+**Google Flan T5 model**
+
+FLAN T5 is an enhanced version of T5 that has been finetuned in a mixture of tasks.
+
+The Google T5 model was presented in Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.
+
+Prompts used to interrogate model regards textual data.
+
